@@ -16,12 +16,14 @@ const createPart = (partsList) => {
 
   parts.forEach((part) => {
     if (fs.statSync(part).isDirectory()) {
-      result.text = result.text.concat(createPart(part));
+      result.text = result.text.concat(createPart(part).text);
     } else {
       const raw = fs.readFileSync(part, { encoding: "utf-8" });
       result.text = result.text.concat(raw);
     }
   });
+
+  console.log(result);
 
   return result;
 };
@@ -33,7 +35,7 @@ const collect = (dirList) => {
   };
 
   dirList.forEach((dir) => result.parts.push(createPart(dir)));
-  result.parts.forEach((part) => result.all.concat(part.text));
+  result.parts.forEach((part) => (result.all = result.all.concat(part.text)));
 
   return result;
 };
