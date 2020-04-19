@@ -1,100 +1,100 @@
-﻿とうほうれいいでん	東方靈異伝 〜 Highly Responsive to Prayers.	名詞
+﻿とうほうれいいでん	東方靈異伝 ~ Highly Responsive to Prayers.	名詞
 とうほうれいいでん	東方靈異伝	名詞
 れいいでん	靈異伝	名詞
 
-とうほうふうまろく	東方封魔録 〜 the Story of Eastern Wonderland.	名詞
+とうほうふうまろく	東方封魔録 ~ the Story of Eastern Wonderland.	名詞
 とうほうふうまろく	東方封魔録	名詞
 ふうまろく	封魔録	名詞
 
-とうほうゆめじくう	東方夢時空 〜 Phantasmagoria of Dim.Dream.	名詞
+とうほうゆめじくう	東方夢時空 ~ Phantasmagoria of Dim.Dream.	名詞
 とうほうゆめじくう	東方夢時空	名詞
 ゆめじくう	夢時空	名詞
 
-とうほうげんそうきょう	東方幻想郷 〜 Lotus Land Story.	名詞
+とうほうげんそうきょう	東方幻想郷 ~ Lotus Land Story.	名詞
 とうほうげんそうきょう	東方幻想郷	名詞
 げんそうきょう	幻想郷	名詞
 
-とうほうかいきだん	東方怪綺談 〜 Mystic Square.	名詞
+とうほうかいきだん	東方怪綺談 ~ Mystic Square.	名詞
 とうほうかいきだん	東方怪綺談	名詞
 かいきだん	怪綺談	名詞
 
-とうほうこうまきょう	東方紅魔郷 〜 the Embodiment of Scarlet Devil.	名詞
+とうほうこうまきょう	東方紅魔郷 ~ the Embodiment of Scarlet Devil.	名詞
 とうほうこうまきょう	東方紅魔郷	名詞
 こうまきょう	紅魔郷	名詞
 
-とうほうようようむ	東方妖々夢 〜 Perfect Cherry Blossom.	名詞
+とうほうようようむ	東方妖々夢 ~ Perfect Cherry Blossom.	名詞
 とうほうようようむ	東方妖々夢	名詞
 ようようむ	妖々夢	名詞
 
-とうほうすいむそう	東方萃夢想 〜 Immaterial and Missing Power.	名詞
+とうほうすいむそう	東方萃夢想 ~ Immaterial and Missing Power.	名詞
 とうほうすいむそう	東方萃夢想	名詞
 すいむそう	萃夢想	名詞
 
-とうほうえいやしょう	東方永夜抄 〜 Imperishable Night.	名詞
+とうほうえいやしょう	東方永夜抄 ~ Imperishable Night.	名詞
 とうほうえいやしょう	東方永夜抄	名詞
 えいやしょう	永夜抄	名詞
 
-とうほうかえいづか	東方花映塚 〜 Phantasmagoria of Flower View.	名詞
+とうほうかえいづか	東方花映塚 ~ Phantasmagoria of Flower View.	名詞
 とうほうかえいづか	東方花映塚	名詞
 かえいづか	花映塚	名詞
 
-とうほうぶんかちょう	東方文花帖 〜 Shoot the Bullet.	名詞
+とうほうぶんかちょう	東方文花帖 ~ Shoot the Bullet.	名詞
 とうほうぶんかちょう	東方文花帖	名詞
 ぶんかちょう	文花帖	名詞
 
-とうほうふうじんろく	東方風神録 〜 Mountain of Faith.	名詞
+とうほうふうじんろく	東方風神録 ~ Mountain of Faith.	名詞
 とうほうふうじんろく	東方風神録	名詞
 ふうじんろく	風神録	名詞
 
-とうほうひそうてん	東方緋想天 〜 Scarlet Weather Rhapsody.	名詞
+とうほうひそうてん	東方緋想天 ~ Scarlet Weather Rhapsody.	名詞
 とうほうひそうてん	東方緋想天	名詞
 ひそうてん	緋想天	名詞
 
-とうほうちれいでん	東方地霊殿 〜 Subterranean Animism.	名詞
+とうほうちれいでん	東方地霊殿 ~ Subterranean Animism.	名詞
 とうほうちれいでん	東方地霊殿	名詞
 ちれいでん	地霊殿	名詞
 
-とうほうせいれんせん	東方星蓮船 〜 Undefined Fantastic Object.	名詞
+とうほうせいれんせん	東方星蓮船 ~ Undefined Fantastic Object.	名詞
 とうほうせいれんせん	東方星蓮船	名詞
 せいれんせん	星蓮船	名詞
 
-とうほうひそうてんそく	東方非想天則 〜 超弩級ギニョルの謎を追え	名詞
+とうほうひそうてんそく	東方非想天則 ~ 超弩級ギニョルの謎を追え	名詞
 とうほうひそうてんそく	東方非想天則	名詞
 ひそうてんそく	非想天則	名詞
 
-だぶるすぽいらー	ダブルスポイラー 〜 東方文花帖	名詞
+だぶるすぽいらー	ダブルスポイラー ~ 東方文花帖	名詞
 だぶるすぽいらー	ダブルスポイラー	名詞
 
-ようせいだいせんそう	妖精大戦争 〜 東方三月精	名詞
+ようせいだいせんそう	妖精大戦争 ~ 東方三月精	名詞
 ようせいだいせんそう	妖精大戦争	名詞
 
-とうほうしんれいびょう	東方神霊廟 〜 Ten Desires.	名詞
+とうほうしんれいびょう	東方神霊廟 ~ Ten Desires.	名詞
 とうほうしんれいびょう	東方神霊廟	名詞
 しんれいびょう	神霊廟	名詞
 
-とうほうしんきろう	東方心綺楼 〜 Hopeless Masquerade.	名詞
+とうほうしんきろう	東方心綺楼 ~ Hopeless Masquerade.	名詞
 とうほうしんきろう	東方心綺楼	名詞
 しんきろう	心綺楼	名詞
 
-とうほうきしんじょう	東方輝針城 〜 Double Dealing Character.	名詞
+とうほうきしんじょう	東方輝針城 ~ Double Dealing Character.	名詞
 とうほうきしんじょう	東方輝針城	名詞
 きしんじょう	輝針城	名詞
 
-だんまくあまのじゃく	弾幕アマノジャク 〜 Impossible Spell Card.	名詞
+だんまくあまのじゃく	弾幕アマノジャク ~ Impossible Spell Card.	名詞
 だんまくあまのじゃく	弾幕アマノジャク	名詞
 
 だんまくあまのじゃくごーるどらっしゅ	弾幕アマノジャク ゴールドラッシュ	名詞
 だんまくあまのじゃく	弾幕アマノジャク ゴールドラッシュ	名詞
 
-とうほうしんぴろく	東方深秘録 〜 Urban Legend in Limbo.	名詞
+とうほうしんぴろく	東方深秘録 ~ Urban Legend in Limbo.	名詞
 とうほうしんぴろく	東方深秘録	名詞
 しんぴろく	深秘録	名詞
 
-とうほうかんじゅでん	東方紺珠伝 〜 Legacy of Lunatic Kingdom.	名詞
+とうほうかんじゅでん	東方紺珠伝 ~ Legacy of Lunatic Kingdom.	名詞
 とうほうかんじゅでん	東方紺珠伝	名詞
 かんじゅでん	紺珠伝	名詞
 
-とうほうひょういばな	東方憑依華 〜 Antinomy of Common Flowers.	名詞
+とうほうひょういばな	東方憑依華 ~ Antinomy of Common Flowers.	名詞
 とうほうひょういばな	東方憑依華	名詞
 ひょういばな	憑依華	名詞
 
@@ -105,6 +105,6 @@
 ひふうないとめあだありー	秘封ナイトメアダイアリー ~ Violet Detector.	名詞
 ひふうないとめあだありー	秘封ナイトメアダイアリー	名詞
 
-とうほうきけいじゅう	東方鬼形獣 〜 Wily Beast and Weakest Creature.	名詞
+とうほうきけいじゅう	東方鬼形獣 ~ Wily Beast and Weakest Creature.	名詞
 とうほうきけいじゅう	東方鬼形獣	名詞
 きけいじゅう	鬼形獣	名詞
