@@ -2,6 +2,7 @@ const archiver = require("archiver");
 const path = require("path");
 const fs = require("fs");
 
+const outputPath = "docs/raw";
 const targets = fs.readdirSync(path.resolve("src"));
 
 const createPart = (partsList) => {
@@ -42,7 +43,7 @@ const createDic = (dirPath) => {
   const zip = archiver("zip", { zlib: { level: 9 } });
 
   const outputName = `${path.basename(dirPath)}.zip`;
-  const output = fs.createWriteStream(path.resolve("dist", outputName));
+  const output = fs.createWriteStream(path.resolve(outputPath, outputName));
 
   const dirList = fs.readdirSync(dirPath).map((dir) => path.join(dirPath, dir));
   const c = collect(dirList);
@@ -57,7 +58,7 @@ const createDic = (dirPath) => {
 };
 
 const init = (targets) => {
-  const outputDir = path.resolve("dist");
+  const outputDir = path.resolve(outputPath);
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
 
   targets.forEach((target) => createDic(path.resolve("src", target)));
