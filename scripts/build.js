@@ -57,6 +57,9 @@ const createDic = (dirPath) => {
 };
 
 const init = (targets) => {
+  const outputDir = path.resolve("dist");
+  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
+
   targets.forEach((target) => createDic(path.resolve("src", target)));
 };
 
