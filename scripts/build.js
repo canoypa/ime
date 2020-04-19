@@ -23,8 +23,6 @@ const createPart = (partsList) => {
     }
   });
 
-  console.log(result);
-
   return result;
 };
 
