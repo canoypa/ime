@@ -4,5 +4,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "cano <contact.sasasaky@gmail.com>",
-  "repository": "git@github.com:canoypa/ime.git"
+  "repository": "git@github.com:canoypa/ime.git",
+  "devDependencies": {
+    "archiver": "^4.0.1"
+  }
 }
