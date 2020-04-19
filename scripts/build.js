@@ -49,9 +49,10 @@ const createDic = (dirPath) => {
 
   zip.pipe(output);
   zip.append(c.all, { name: `${path.basename(dirPath)}.txt` });
-  c.parts.forEach((part) =>
-    zip.append(part.text, { name: `parts/${part.name}.txt` })
-  );
+  c.parts.forEach((part) => {
+    const name = `parts/${part.name}.txt`;
+    zip.append(part.text, { name: name });
+  });
   zip.finalize();
 };
 
