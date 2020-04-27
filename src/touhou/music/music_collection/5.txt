@@ -10,9 +10,8 @@
 でぃーみすてぃふぁいふぃーすと	Demystify Feast	名詞
 えいせいかふぇてらす	衛星カフェテラス Satellite Cafe	名詞
 えいせいかふぇてらす	衛星カフェテラス	名詞
-G free	G Free Zero Gravity	名詞
-G free	G Free	名詞
-Gfree	G Free	名詞
+ｇｆれえ	G Free Zero Gravity	名詞
+ｇｆれえ	G Free	名詞
 じーふりー	G Free	名詞
 おおぞらまじゅつ	大空魔術 ~ Magical Astronomy	名詞
 ねくろふぁんたじあ	ネクロファンタジア Necrophantasia	名詞
