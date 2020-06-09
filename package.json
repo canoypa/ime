@@ -3,7 +3,7 @@
   "name": "ime",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "cano <contact.sasasaky@gmail.com>",
+  "author": "Cano <contact.sasasaky@gmail.com>",
   "repository": "git@github.com:canoypa/ime.git",
   "scripts": {
     "build": "node ./scripts/build"
