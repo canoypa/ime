@@ -14,6 +14,7 @@
 ｇｆれえ	G Free	名詞
 じーふりー	G Free	名詞
 おおぞらまじゅつ	大空魔術 ~ Magical Astronomy	名詞
+おおぞらまじゅつ	大空魔術	名詞
 ねくろふぁんたじあ	ネクロファンタジア Necrophantasia	名詞
 むこうがわのつき	向こう側の月 Megalopolis of Moon	名詞
 むこうがわのつき	向こう側の月	名詞
