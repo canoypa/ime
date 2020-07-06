@@ -1,11 +1,11 @@
-はくれいれいむ	博麗靈夢	名
-おんみょうだま	陰陽玉	名
-しんぎょく	SinGyoku	名
-ゆうげんまがん	YuugenMagan	名
-えりす	Elis	名
-さりえる	Sariel
-みま	Mima
-きくり	Kikuri
-こんがら	Konngara
-やまあるき	山歩き
-ようせい	妖精
+はくれいれいむ, 博麗靈夢, 名
+おんみょうだま, 陰陽玉, 名
+しんぎょく, SinGyoku, 名
+ゆうげんまがん, YuugenMagan, 名
+えりす, Elis, 名
+さりえる, Sariel
+みま, Mima
+きくり, Kikuri
+こんがら, Konngara
+やまあるき, 山歩き
+ようせい, 妖精

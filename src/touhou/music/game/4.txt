@@ -1,48 +1,48 @@
-げんそうきょうろーたすらんどすとーりー	幻想郷 ~ Lotus Land Story	名詞
-げんそうきょう	幻想郷 ~ Lotus Land Story	名詞
-げんそうきょう	幻想郷	名詞
-うぃっちんぐどりーむ	Witching Dream	名詞
-せれねずらいと	Selene's light	名詞
-＠みしてい	装飾戦 ~ Decoration Battle	名詞
-そうしょくせん	装飾戦 ~ Decoration Battle	短縮よみ
-そうしょくせん	装飾戦	名詞
-ぶれいくざさばす	Break the Sabbath	名詞
-＠みしてい	紅響曲 ~ Scarlet Phoneme	名詞
-こうきょうきょく	紅響曲 ~ Scarlet Phoneme	短縮よみ
-こうきょうきょく	紅響曲	名詞
-ばっどあっぷる	Bad Apple!!	名詞
-＠みしてい	霊戦 ~ Perdition Crisis	名詞
-れいせん	霊戦 ~ Perdition Crisis	短縮よみ
-れいせん	霊戦	名詞
-ありすまえすてら	アリスマエステラ	名詞
-しょうじょきそうきょくかぷりっちお	少女綺想曲 ~ Capriccio	名詞
-しょうじょきそうきょく	少女綺想曲 ~ Capriccio	短縮よみ
-しょうじょきそうきょく	少女綺想曲	名詞
-＠みしてい	星の器 ~ Casket of Star	名詞
-ほしのうつわ	星の器 ~ Casket of Star	名詞
-ほしのうつわ	星の器	名詞
-ろーたすらぶ	Lotus Love	名詞
-＠みしてい	眠れる恐怖 ~ Sleeping Terror	名詞
-ねむれるきょうふ	眠れる恐怖 ~ Sleeping Terror	短縮よみ
-ねむれるきょうふ	眠れる恐怖	名詞
-どりーむらんど	Dream Land	名詞
-＠みしてい	幽夢 ~ Inanimate Dream	名詞
-ゆうむ	幽夢 ~ Inanimate Dream	短縮よみ
-ゆうむ	幽夢	名詞
-きんじざるをえないゆうぎ	禁じざるをえない遊戯	名詞
-＠みしてい	メイド幻想 ~ Icemilk Magic	名詞
-めいどげんそう	メイド幻想 ~ Icemilk Magic	短縮よみ
-めいどげんそう	メイド幻想	名詞
-かわいいあくまいのせんす	かわいい悪魔 ~ Innocence	名詞
-かわいいあくま	かわいい悪魔 ~ Innocence	短縮よみ
-かわいいあくま	かわいい悪魔	名詞
-でいず	Days	名詞
-ぴーすふる	Peaceful	名詞
-あるかでぃあんどりーむ	Arcadian Dream	名詞
-げんそうのじゅうにん	幻想の住人	名詞
-ろーたすろーど	Lotus Road	名詞
-どりーみーぱいろっと	Dreamy Pilot	名詞
-いんこんぷりーとぷろっと	Incomplete Plot	名詞
-ぼーだーらんど	Border Land	名詞
-まじっくしょっぷおぶらずべりー	Magic Shop of Raspberry	名詞
-くれせんとどりーむ	Crescent Dream	名詞
+げんそうきょうろーたすらんどすとーりー, 幻想郷 ~ Lotus Land Story, 名詞
+げんそうきょう, 幻想郷 ~ Lotus Land Story, 名詞
+げんそうきょう, 幻想郷, 名詞
+うぃっちんぐどりーむ, Witching Dream, 名詞
+せれねずらいと, Selene's light, 名詞
+＠みしてい, 装飾戦 ~ Decoration Battle, 名詞
+そうしょくせん, 装飾戦 ~ Decoration Battle, 短縮よみ
+そうしょくせん, 装飾戦, 名詞
+ぶれいくざさばす, Break the Sabbath, 名詞
+＠みしてい, 紅響曲 ~ Scarlet Phoneme, 名詞
+こうきょうきょく, 紅響曲 ~ Scarlet Phoneme, 短縮よみ
+こうきょうきょく, 紅響曲, 名詞
+ばっどあっぷる, Bad Apple!!, 名詞
+＠みしてい, 霊戦 ~ Perdition Crisis, 名詞
+れいせん, 霊戦 ~ Perdition Crisis, 短縮よみ
+れいせん, 霊戦, 名詞
+ありすまえすてら, アリスマエステラ, 名詞
+しょうじょきそうきょくかぷりっちお, 少女綺想曲 ~ Capriccio, 名詞
+しょうじょきそうきょく, 少女綺想曲 ~ Capriccio, 短縮よみ
+しょうじょきそうきょく, 少女綺想曲, 名詞
+＠みしてい, 星の器 ~ Casket of Star, 名詞
+ほしのうつわ, 星の器 ~ Casket of Star, 名詞
+ほしのうつわ, 星の器, 名詞
+ろーたすらぶ, Lotus Love, 名詞
+＠みしてい, 眠れる恐怖 ~ Sleeping Terror, 名詞
+ねむれるきょうふ, 眠れる恐怖 ~ Sleeping Terror, 短縮よみ
+ねむれるきょうふ, 眠れる恐怖, 名詞
+どりーむらんど, Dream Land, 名詞
+＠みしてい, 幽夢 ~ Inanimate Dream, 名詞
+ゆうむ, 幽夢 ~ Inanimate Dream, 短縮よみ
+ゆうむ, 幽夢, 名詞
+きんじざるをえないゆうぎ, 禁じざるをえない遊戯, 名詞
+＠みしてい, メイド幻想 ~ Icemilk Magic, 名詞
+めいどげんそう, メイド幻想 ~ Icemilk Magic, 短縮よみ
+めいどげんそう, メイド幻想, 名詞
+かわいいあくまいのせんす, かわいい悪魔 ~ Innocence, 名詞
+かわいいあくま, かわいい悪魔 ~ Innocence, 短縮よみ
+かわいいあくま, かわいい悪魔, 名詞
+でいず, Days, 名詞
+ぴーすふる, Peaceful, 名詞
+あるかでぃあんどりーむ, Arcadian Dream, 名詞
+げんそうのじゅうにん, 幻想の住人, 名詞
+ろーたすろーど, Lotus Road, 名詞
+どりーみーぱいろっと, Dreamy Pilot, 名詞
+いんこんぷりーとぷろっと, Incomplete Plot, 名詞
+ぼーだーらんど, Border Land, 名詞
+まじっくしょっぷおぶらずべりー, Magic Shop of Raspberry, 名詞
+くれせんとどりーむ, Crescent Dream, 名詞
