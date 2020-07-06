@@ -21,7 +21,7 @@ const createPart = (partsList) => {
     } else {
       const raw = fs.readFileSync(part, { encoding: "utf-8" });
       result.text = result.text.concat(
-        raw.replace(/^\n/gm, "") // 空行削除
+        raw.replace(/^\n|#.+\n/gm, "") // 空行とコメント削除
       );
     }
   });
