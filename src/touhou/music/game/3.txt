@@ -3,18 +3,18 @@
 とうほうようれいだん, 東方妖恋談, 名詞
 りーいんかーねいしょん, Reincarnation, 名詞
 でぃむどりーむ, Dim. Dream, 名詞
-＠みしてい, Tabula rasa ~ 空白少女, 名詞
+# Fixme みしてい, Tabula rasa ~ 空白少女, 名詞
 くうはくしょうじょ, Tabula rasa ~ 空白少女, 短縮よみ
 くうはくしょうじょ, 空白少女, 名詞
 まにあかるぷりんせす, Maniacal Princess, 名詞
 ゆめしょうしつろすとどりーむ, 夢消失 ~ Lost Dream, 名詞
 ゆめしょうしつ, 夢消失 ~ Lost Dream, 短縮よみ
 ゆめしょうしつ, 夢消失, 名詞
-＠みしてい, 夢幻遊戯 ~ Dream War, 名詞
+# Fixme みしてい, 夢幻遊戯 ~ Dream War, 名詞
 むげんゆうぎ, 夢幻遊戯 ~ Dream War, 短縮よみ
 むげんゆうぎ, 夢幻遊戯, 名詞
 あさくらりえこ, 夢幻遊戯 ~ Dream War, 名詞
-＠みしてい, 魔法決戦！ ~ Fight it out!, 名詞
+# Fixme みしてい, 魔法決戦！ ~ Fight it out!, 名詞
 まほうけっせん, 魔法決戦！ ~ Fight it out!, 短縮よみ
 まほうけっせん, 魔法決戦！, 名詞
 せーらーおぶたいむ, Sailor of Time, 名詞

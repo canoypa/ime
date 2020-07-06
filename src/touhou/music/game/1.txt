@@ -13,5 +13,5 @@
 せいゆうけんし, 星幽剣士, 名詞
 あいりす, アイリス, 名詞
 せいゆうてんし, 星幽天使, 名詞
-＠みしてい, Civilization of Magic, 名詞
+# Fixme みしてい, Civilization of Magic, 名詞
 かぜのじんじゃ, 風の神社, 名詞

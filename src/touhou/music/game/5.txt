@@ -6,29 +6,29 @@
 まほうじん, 魔法陣 ~ Magic Square, 短縮よみ
 まほうじん, 魔法陣, 名詞
 むそうじくう, 夢想時空, 名詞
-＠みしてい, 霊天 ~ Spiritual Heaven, 名詞
+# Fixme みしてい, 霊天 ~ Spiritual Heaven, 名詞
 れいてん, 霊天 ~ Spiritual Heaven, 短縮よみ
 れいてん, 霊天, 名詞
 ろまんちっくちるどれん, Romantic Children, 名詞
 ぷらすちっくまいんど, プラスチックマインド, 名詞
 めいぷるわいず, メイプルワイズ, 名詞
-＠みしてい, 禁断の魔法 ~ Forbidden Magic, 名詞
+# Fixme みしてい, 禁断の魔法 ~ Forbidden Magic, 名詞
 きんだんのまほう, 禁断の魔法 ~ Forbidden Magic, 短縮よみ
 きんだんのまほう, 禁断の魔法, 名詞
-＠みしてい, 真紅の少女 ~ Crimson Dead!!, 名詞
+# Fixme みしてい, 真紅の少女 ~ Crimson Dead!!, 名詞
 しんくのしょうじょ, 真紅の少女 ~ Crimson Dead!!, 短縮よみ
 しんくのしょうじょ, 真紅の少女, 名詞
-＠みしてい, 裏切りの少女 ~ Judas Kiss, 名詞
+# Fixme みしてい, 裏切りの少女 ~ Judas Kiss, 名詞
 うらぎりのしょうじょ, 裏切りの少女 ~ Judas Kiss, 短縮よみ
 うらぎりのしょうじょ, 裏切りの少女, 名詞
 ざらすとじゃっじめんと, the Last Judgement, 名詞
-＠みしてい, 悲しき人形 ~ Doll of Misery, 名詞
+# Fixme みしてい, 悲しき人形 ~ Doll of Misery, 名詞
 かなしきにんぎょう, 悲しき人形 ~ Doll of Misery, 短縮よみ
 かなしきにんぎょう, 悲しき人形, 名詞
-＠みしてい, 世界の果て ~ World's End, 名詞
+# Fixme みしてい, 世界の果て ~ World's End, 名詞
 せかいのはて, 世界の果て ~ World's End, 短縮よみ
 せかいのはて, 世界の果て, 名詞
-＠みしてい, 神話幻想 ~ Infinite Being, 名詞
+# Fixme みしてい, 神話幻想 ~ Infinite Being, 名詞
 しんわげんそう, 神話幻想 ~ Infinite Being, 短縮よみ
 しんわげんそう, 神話幻想, 名詞
 ふしぎのくにのありす, 不思議の国のアリス, 名詞
