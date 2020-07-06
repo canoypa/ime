@@ -20,7 +20,9 @@ const createPart = (partsList) => {
       result.text = result.text.concat(createPart(part).text);
     } else {
       const raw = fs.readFileSync(part, { encoding: "utf-8" });
-      result.text = result.text.concat(raw);
+      result.text = result.text.concat(
+        raw.replace(/^\n/gm, "") // 空行削除
+      );
     }
   });
 
