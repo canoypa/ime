@@ -23,7 +23,7 @@ const createPart = (partsList) => {
       result.text = result.text.concat(
         raw
           .replace(/^\n|#.+\n/gm, "") // 空行とコメント削除
-          .replace(/,(?:\s+)?/gm, "        ") // xx, yy を xx  yy に変更
+          .replace(/,(?:\s+)?/gm, "	") // xx, yy を xx  yy に変更
       );
     }
   });
