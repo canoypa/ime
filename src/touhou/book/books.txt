@@ -1,3 +1,22 @@
+# ご本
+
+# 単行本
+とうほうぶんかちょう, 東方文花帖, 名詞
+とうほうぶんかちょう, 東方文花帖 ~ Bohemian Archive in Japanese Red., 名詞
+とうほうしこうばな, 東方紫香花, 名詞
+とうほうしこうばな, 東方紫香花 ~ Seasonal Dream Vision., 名詞
+とうほうぐもんしき, 東方求聞史紀, 名詞
+とうほうぐもんしき, 東方求聞史紀 ~ Perfect Memento in Strict Sense., 名詞
+ぐりもわーるおぶまりさ, The Grimoire of Marisa, 名詞
+とうほうぐもんくじゅ, 東方求聞口授, 名詞
+とうほうぐもんくじゅ, 東方求聞口授 ~ Symposium of Post-mysticism., 名詞
+とうほうぶんかしんぽう, 東方文果真報, 名詞
+とうほうぶんかしんぽう, 東方文果真報 Alternative Facts in Eastern Utopia., 名詞
+ぐりもわーるおぶうさみ, The Grimoire of Usami 秘封倶楽部異界撮影記録, 名詞
+ひふうくらぶいかいさつえいきろく, The Grimoire of Usami 秘封倶楽部異界撮影記録, 名詞
+ひふうくらぶいかいさつえいきろく, 秘封倶楽部異界撮影記録, 名詞
+
+# 連載小説、漫画
 とうほうこうりんどう, 東方香霖堂, 名詞
 とうほうこうりんどう, 東方香霖堂 ~ Curiosities of Lotus Asia., 名詞
 とうほうさんげつせい, 東方三月精, 名詞
@@ -13,22 +32,16 @@
 とうほういばらかせん, 東方茨歌仙 ~ Wild and Horned Hermit., 名詞
 とうほうすずなあん, 東方鈴奈庵, 名詞
 とうほうすずなあん, 東方鈴奈庵 ~ Forbidden Scrollery., 名詞
+とうほうちれいきでん, 東方智霊奇伝 反則探偵さとり, 名詞
+はんそくたんていさとり, 東方智霊奇伝 反則探偵さとり, 名詞
+とうほうちれいきでん, 東方智霊奇伝, 名詞
+とうほうすいちょうか, 東方酔蝶華 ~ ロータスイーター達の酔醒, 名詞
+とうほうすいちょうか, 東方酔蝶華, 名詞
+
+# 雑誌
 とうほうがいらいいへん, 東方外來韋編, 名詞
 とうほうがいらいいへん, 東方外來韋編 Strange Creators of Outer World., 名詞
 
-とうほうぶんかちょう, 東方文花帖, 名詞
-とうほうぶんかちょう, 東方文花帖 ~ Bohemian Archive in Japanese Red., 名詞
-とうほうぐもんしき, 東方求聞史紀, 名詞
-とうほうぐもんしき, 東方求聞史紀 ~ Perfect Memento in Strict Sense., 名詞
-とうほうぐもんくじゅ, 東方求聞口授, 名詞
-とうほうぐもんくじゅ, 東方求聞口授 ~ Symposium of Post-mysticism., 名詞
-とうほうぶんかしんぽう, 東方文果真報, 名詞
-とうほうぶんかしんぽう, 東方文果真報 Alternative Facts in Eastern Utopia., 名詞
-ぐりもわーるおぶまりさ, The Grimoire of Marisa, 名詞
-ぐりもわーるおぶうさみ, The Grimoire of Usami 秘封倶楽部異界撮影記録, 名詞
-ひふうくらぶいかいさつえいきろく, The Grimoire of Usami 秘封倶楽部異界撮影記録, 名詞
-ひふうくらぶいかいさつえいきろく, 秘封倶楽部異界撮影記録, 名詞
-
-とうほうしこうばな, 東方紫香花, 名詞
-とうほうしこうばな, 東方紫香花 ~ Seasonal Dream Vision., 名詞
-
+# Web
+とうほうがらくたそうし, 東方我楽多叢誌 strange articles of the outer world, 名詞
+とうほうがらくたそうし, 東方我楽多叢誌, 名詞
