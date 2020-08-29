@@ -2,58 +2,50 @@ const archiver = require("archiver");
 const path = require("path");
 const fs = require("fs");
 
-const outputPath = "docs/raw";
-const targets = fs.readdirSync(path.resolve("src"));
+const srcPath = path.resolve("src");
+const distPath = "docs/raw";
 
-const createPart = (partsList) => {
-  let result = {
-    name: path.basename(partsList),
-    text: "",
-  };
+const createPart = (partsPath) => {
+  const name = path.basename(partsPath);
 
   const parts = fs
-    .readdirSync(partsList)
-    .map((module) => path.join(partsList, module));
+    .readdirSync(partsPath)
+    .map((part) => path.join(partsPath, part));
 
-  parts.forEach((part) => {
-    if (fs.statSync(part).isDirectory()) {
-      result.text = result.text.concat(createPart(part).text);
-    } else {
-      const raw = fs.readFileSync(part, { encoding: "utf-8" });
-      result.text = result.text.concat(
-        raw
-          .replace(/^\n|#.+\n/gm, "") // 空行とコメント削除
-          .replace(/,(?:\s+)?/gm, "	") // xx, yy を xx  yy に変更
-      );
-    }
-  });
+  const text = parts.reduce((acc, cur) => {
+    if (fs.statSync(cur).isDirectory()) return acc + createPart(cur).text;
 
-  return result;
+    const raw = fs.readFileSync(cur, { encoding: "utf-8" });
+    return (
+      acc +
+      raw
+        .replace(/^\n|#.+\n/gm, "") // 空行とコメント削除
+        .replace(/,(?:\s+)?/gm, "	") // xx, yy を xx  yy に変更
+    );
+  }, "");
+
+  return { name, text };
 };
 
-const collect = (dirList) => {
-  let result = {
-    all: "",
-    parts: [],
-  };
-
-  dirList.forEach((dir) => result.parts.push(createPart(dir)));
-  result.parts.forEach((part) => (result.all = result.all.concat(part.text)));
-
-  return result;
+const collect = (partsPaths) => {
+  const parts = partsPaths.map((partsPath) => createPart(partsPath));
+  const all = parts.reduce((acc, cur) => acc + cur.text, "");
+  return { all, parts };
 };
 
-const createDic = (dirPath) => {
+const createDic = (dicSrcPath) => {
   const zip = archiver("zip", { zlib: { level: 9 } });
 
-  const outputName = `${path.basename(dirPath)}.zip`;
-  const output = fs.createWriteStream(path.resolve(outputPath, outputName));
+  const outputName = `${path.basename(dicSrcPath)}.zip`;
+  const output = fs.createWriteStream(path.resolve(distPath, outputName));
 
-  const dirList = fs.readdirSync(dirPath).map((dir) => path.join(dirPath, dir));
-  const c = collect(dirList);
+  const docPartsPaths = fs
+    .readdirSync(dicSrcPath)
+    .map((dir) => path.join(dicSrcPath, dir));
+  const c = collect(docPartsPaths);
 
   zip.pipe(output);
-  zip.append(c.all, { name: `${path.basename(dirPath)}.txt` });
+  zip.append(c.all, { name: `${path.basename(dicSrcPath)}.txt` });
   c.parts.forEach((part) => {
     const name = `parts/${part.name}.txt`;
     zip.append(part.text, { name: name });
@@ -61,11 +53,12 @@ const createDic = (dirPath) => {
   zip.finalize();
 };
 
-const init = (targets) => {
-  const outputDir = path.resolve(outputPath);
-  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
+const init = (srcPath) => {
+  const distDir = path.resolve(distPath);
+  if (!fs.existsSync(distDir)) fs.mkdirSync(distDir);
 
-  targets.forEach((target) => createDic(path.resolve("src", target)));
+  const srcDir = fs.readdirSync(srcPath);
+  srcDir.forEach((dicSrcPath) => createDic(path.join(srcPath, dicSrcPath)));
 };
 
-init(targets);
+init(srcPath);
