@@ -1,18 +1,23 @@
 # IME
 
-個人的に作ってる IME 群です
+このリポジトリには、個人的に作成している IME 辞書のソースが含まれます。
 
-Windows 10 の Google IME で動作確認をしています
+## 使用方法
 
-## Download
+最新の IME 辞書は次のリリースページからダウンロード出来ます。
 
-- [東方](https://canoypa.github.io/ime/raw/touhou.zip)
-- [艦これ](https://canoypa.github.io/ime/raw/kancolle.zip)
+https://github.com/canoypa/ime/releases
 
-## ファイル構成
+ダウンロードした zip ファイルを解凍すると、以下のテキストファイルが得られます。
 
-- parts/
-  - 種類別の辞書です
-  - 曲のみ、キャラクターのみ などで追加できます
-- {IME 名}.txt
-  - 全ての単語を登録します
+```
+├ [IME 名].txt
+│ 収録済みの全ての単語が含まれます。
+│
+└ parts/
+   └ [Parts 名].txt
+     曲のみ、キャラクター名のみ、など
+     種類別の単語のみが含まれます。
+```
+
+このテキストファイルをお使いの IME にインポートしてください。
