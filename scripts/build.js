@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const srcPath = path.resolve("src");
-const distPath = "docs/raw";
+const distPath = "dist";
 
 const createPart = (partsPath) => {
   const name = path.basename(partsPath);
