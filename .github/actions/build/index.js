@@ -1,6 +1,6 @@
-const archiver = require("archiver");
-const path = require("path");
-const fs = require("fs");
+import archiver from "archiver";
+import fs from "fs";
+import path from "path";
 
 // 単一ファイルを Set<[よみ, 単語, 品詞]> に変換
 const parseFile = (file) => {
